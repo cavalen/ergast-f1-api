@@ -401,5 +401,5 @@ paths:
       - seasons
 servers:
 - description: SwaggerHub API Auto Mocking
-  url: https://virtserver.swaggerhub.com/sports/liam-f1/1
-- url: http://app.example.com/api/f1
+  url: https://virtserver.swaggerhub.com
+- url: http://f1.example.com/api/f1
