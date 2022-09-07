@@ -642,10 +642,10 @@
   "servers": [
     {
       "description": "SwaggerHub API Auto Mocking",
-      "url": "https://virtserver.swaggerhub.com/sports/liam-f1/1"
+      "url": "https://virtserver.swaggerhub.com"
     },
     {
-      "url": "http://ergast.com/api/f1"
+      "url": "http://f1.example.com/api/f1"
     }
   ]
 }
